@@ -14,9 +14,9 @@ Fully customiseable wallpaper generator, suited for both horizontal and vertical
 <details>
 <summary>Vertical examples</summary>
 
-<img src="final/amd_vertical_result.png" width="33%"> <img src="final/java_vertical_result.png" width="33%"> <img src="final/python_vertical_result.png" width="33%">
-<img src="final/nvidia_vertical_result.png" width="33%"> <img src="final/intel_vertical_result.png" width="33%"> <img src="final/cplusplus_vertical_result.png" width="33%">
-<img src="final/csharp_vertical_result.png" width="33%"> <img src="final/javascript_vertical_result.png" width="33%">
+<img src="final/amd_vertical_result.png" width="32%"> <img src="final/java_vertical_result.png" width="32%"> <img src="final/python_vertical_result.png" width="32%">
+<img src="final/nvidia_vertical_result.png" width="32%"> <img src="final/intel_vertical_result.png" width="32%"> <img src="final/cplusplus_vertical_result.png" width="32%">
+<img src="final/csharp_vertical_result.png" width="32%"> <img src="final/javascript_vertical_result.png" width="32%">
 
 </details>
 
