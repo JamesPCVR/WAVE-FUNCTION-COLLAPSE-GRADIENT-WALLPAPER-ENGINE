@@ -1,0 +1,61 @@
+{
+    "wallpaper_size": {
+        "width": 1080,
+        "height": 1920
+    },
+    "background": {
+        "enabled": true,
+        "top_gradient": true,
+        "top_color_tl": "#444444",
+        "top_color_br": "#000000",
+        "bottom_gradient": false,
+        "bottom_color_tl": "#000000",
+        "bottom_color_br": "#222222",
+        "blur_strength": 1,
+        "wave_function_collapse": {
+            "enabled": true,
+            "tile_size": 40,
+            "weights": {
+                "blank": 1,
+                "wire_straight": 10,
+                "wire_bend": 3,
+                "wire_junction": 2,
+                "component_basic": 3,
+                "component_complex": 1
+            }
+        },
+        "grayscale_image": {
+            "enabled": false,
+            "invert": false,
+            "file_source": "assets/background.png"
+        },
+        "binary_image": {
+            "enabled": false,
+            "threshold": 180,
+            "invert": false,
+            "file_source": "assets/background.png"
+        }
+    },
+    "foreground": {
+        "enabled": true,
+        "top_gradient": true,
+        "top_mask_source": "assets/java_mask_top.png",
+        "top_color_tl": "#00ffee",
+        "top_color_br": "#0066ff",
+        "bottom_enabled": true,
+        "bottom_gradient": true,
+        "bottom_mask_source": "assets/java_mask_bottom.png",
+        "bottom_color_tl": "#eeff00",
+        "bottom_color_br": "#ff5500",
+        "lines": {
+            "enabled": true,
+            "orientation": "vertical",
+            "line_count": 6,
+            "line_spacing": 24,
+            "line_width": 8,
+            "center_width": 400
+        }
+    },
+    "output_name": "final/java_vertical_result",
+    "save_parts": false
+}
